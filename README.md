@@ -1,1 +1,1 @@
-# SQL-Tableau-SalesInsights
+# Sales Insights using SQL and Tableau
